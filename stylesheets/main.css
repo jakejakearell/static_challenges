@@ -1,0 +1,100 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+  text-align: left;
+  font-size: 150%;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+h2 {
+  color: black;
+  font-size: 100%;
+  text-align: right;
+  font-weight:bold;
+  padding: 5px;
+}
+
+p {
+  text-align: left;
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+}
+
+img {
+  margin: auto;
+  width: 40%;
+}
+
+
+header {
+  width: 900px;
+  text-align: left;
+  background-color: darkred;
+  border: 5px solid darkred;
+  padding: 5px;
+}
+
+nav {
+  text-align: right;
+  color: white
+}
+
+#container {
+  width: 900px;
+  background-color: white;
+  margin: auto;
+}
+
+
+#buildings {
+  width: 50px
+  height: 100px;
+  /* border: 3px solid green; */
+  padding: 10px;
+  text-align: right;
+  float: top;
+}
+
+#mueseum {
+  width: 400px;
+  height: 300px;
+  /* border: 3px solid green; */
+  padding: 10px;
+  text-align: left;
+  float: left;
+}
+
+#clear {
+    clear: both;
+}
+
+#navBar {
+  width: 900px;
+  padding: 2px;
+  margin: auto;
+  text-align: right;
+  background-color: dimgrey;
+}
+
+.museumPic {
+  width: 100%;
+  /* border: 5px solid black; */
+  padding: 5px;
+  margin: auto;
+  text-align: center;
+  background-color: white;
+}
+
+footer {
+  text-align: bottom;
+  background-color: dimgrey;
+  color: white;
+    font-weight: bold;
+  width: 900px;
+}
